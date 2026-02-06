@@ -7,16 +7,19 @@ Cette image montre l'utilisation de PowerShell pour calculer le hash SHA256 du f
 <img width="1451" height="281" alt="chifrement 1" src="https://github.com/user-attachments/assets/814865c7-f5c1-465e-812a-6ff649bf8100" />
 
 Étape 2 — Importer l’OVA dans VirtualBox/VMware:
+
 1-on importer la machine mobexler dans virtualbox:
 
 <img width="1860" height="962" alt="machine 2" src="https://github.com/user-attachments/assets/316e55d7-2bb7-4428-85c0-7677673e36ad" />
 
-2-Paramètres Réseau - Adaptateur 1 
+2-Paramètres Réseau - Adaptateur 1 :
+
 Cette image montre la configuration du premier adaptateur réseau pour la machine virtuelle Mobexler. Il est configuré en mode NAT, ce qui permet à la machine virtuelle d'accéder à Internet en utilisant l'adresse IP de votre ordinateur hôte. Le type d'adaptateur est défini sur "Ethernet over USB".
 
 <img width="970" height="650" alt="adapter 1" src="https://github.com/user-attachments/assets/b2ab7bad-0177-4b8f-af14-5c7b0c43bfce" />
 
-3-Paramètres Réseau - Adaptateur 2 
+3-Paramètres Réseau - Adaptateur 2 :
+
 Ici, on voit la configuration du deuxième adaptateur réseau. Contrairement au premier, celui-ci est configuré en Réseau privé hôte (Host-only). Ce mode est crucial pour permettre à votre ordinateur de communiquer directement avec la machine virtuelle sans passer par un réseau externe. Note : La case "Câble connecté" n'est pas cochée, ce qui pourrait empêcher la connexion de fonctionner.
 
 <img width="977" height="640" alt="adapter 2" src="https://github.com/user-attachments/assets/35bbe647-c70e-4059-a232-da94857e6e93" />
