@@ -50,6 +50,8 @@ Ici, on voit la configuration du deuxième adaptateur réseau. Contrairement au 
 
 Étape 5 — Créer le snapshot “CLEAN”
 1-snapshot:
+
+
 <img width="497" height="452" alt="snapshot 7" src="https://github.com/user-attachments/assets/c9d0491e-7c82-4bb4-9f0a-0e380a8a4e41" />
 
 Étape 6 — Préparer la cible Android
