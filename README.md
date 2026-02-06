@@ -48,7 +48,7 @@ Ici, on voit la configuration du deuxième adaptateur réseau. Contrairement au 
 
 <img width="1670" height="380" alt="google 6" src="https://github.com/user-attachments/assets/d681e2f3-367f-471f-8bcc-8ed74c31d853" />
 
-Étape 5 — Créer le snapshot “CLEAN”
+Étape 5 — Créer le snapshot “CLEAN”:
 1-snapshot:
 
 
